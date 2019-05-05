@@ -1,4 +1,4 @@
-baseURL = "https://douwe.xyz"
+baseURL = "https://douwe.xyz/"
 languageCode = "en-us"
 title = "道伟"
 theme = "minimal"
