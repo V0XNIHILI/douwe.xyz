@@ -1,27 +1,29 @@
 ---
-title: "About me"
-description: "This page contains some more information about me 😊"
-
-draft: false
-
-tags:
-- Douwe den Blanken
+title: 'About me'
+description: 'This page contains some information about me'
 ---
 
-# About me
+# Hi 👋
 
-Bacon ipsum dolor amet chuck pork tenderloin leberkas, pork loin ground round bresaola kielbasa cow fatback filet mignon pastrami short ribs. Bresaola meatloaf ground round sausage. Salami pastrami filet mignon swine kielbasa, shoulder brisket t-bone strip steak. Frankfurter swine pork turducken. Pork chop chicken meatball landjaeger, pig brisket alcatra rump pork sausage porchetta flank shankle. Bacon cow kielbasa, pancetta frankfurter ground round alcatra chuck. Sausage leberkas tongue t-bone ground round flank spare ribs ball tip.
+My name is Douwe den Blanken and I'm a 19 year old Aerospace Engineering student from the
+Netherlands. I am passionate about almost anything that goes faster than 250 km/h, independent of
+whether it's travelling on four wheels or being carried by two wings. I love to play football in the
+summer and enjoy to go ice skating in the winter.
 
 ## Development
 
-Alcatra pastrami shank kevin jerky filet mignon beef turducken pork short ribs. Ball tip buffalo shoulder tail, pork turkey picanha andouille drumstick cow turducken bresaola fatback. Brisket pork loin kevin leberkas spare ribs landjaeger flank ribeye short ribs swine kielbasa sirloin. Corned beef tenderloin t-bone hamburger, swine burgdoggen drumstick chicken sausage andouille shankle ground round frankfurter ribeye. Ham leberkas flank shoulder frankfurter.
+I simply love to create, independent of whether it's designing and thinking up the aircraft of the future, the
+next electric sports car or programming a solution for some problem I ran into.
 
-## Photography
+Currently, most of my hours are spent writing code for web applications. Having
+knowledge of and experience with fullstack web development completely deployed at AWS, I am skilled
+in React, TypeScript, GraphQL, PostgreSQL and Docker and really enjoy working with these
+technologies.
 
-Corned beef tenderloin t-bone hamburger, swine burgdoggen drumstick chicken sausage andouille shankle ground round frankfurter ribeye. Ham leberkas flank shoulder frankfurter.
+I am also the owner and founder of [Webcellence](https://webcellence.nl). Together with my brother,
+we design, develop and build quality websites for local businesses and entrepeneurs. We also create
+logos, brochures and business cards and do the photography for the websites.
 
-## Q&A
+## Contact
 
-Q: How is this website made?
-
-A: This website is made using Hugo
+If you would like to contact me, you can do so via [my email](mailto:douwe@webcellence.nl).

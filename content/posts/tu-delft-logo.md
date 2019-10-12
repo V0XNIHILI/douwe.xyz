@@ -9,7 +9,6 @@ categories:
 - TUDelft
 tags:
 - TU Delft
-- Douwe den Blanken
 - Random
 ---
 
